@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vasiliy Veselov](https://up.htmlacademy.ru/htmlcss/25/user/167193).
-* Наставник: Артём Альтигин.
+* Наставник: [Артём Альтигин](https://up.htmlacademy.ru/htmlcss/25/user/82397).
 
 ---
 
